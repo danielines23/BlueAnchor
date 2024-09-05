@@ -25,6 +25,10 @@ The BlueROV Heavy, constrained by the compute power of a Raspberry Pi 4, require
 
 The final poster summarizing the project and its outcomes can be found [here](BlueAnchorPoster.pdf). 
 
+## Demo Video
+
+A demo video showcasing the real-time localization capabilities of the BlueAnchor can be viewed [here]([https://example.com/demo_video.mp4](https://drive.google.com/file/d/1txKP4vfVh1DrkAVq6ZiLB4wm0bSAmVw2/view?usp=sharing)).
+
 ## Acknowledgments
 
 Special thanks to the Applied Physics Laboratory at the University of Washington and Schmidt Marine Technology Partners for the opportunity to work on this project. 
