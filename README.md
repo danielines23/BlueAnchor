@@ -27,7 +27,7 @@ The final poster summarizing the project and its outcomes can be found [here](Bl
 
 ## Demo Video
 
-A demo video showcasing the real-time localization capabilities of the BlueAnchor can be viewed [here]([https://example.com/demo_video.mp4](https://drive.google.com/file/d/1txKP4vfVh1DrkAVq6ZiLB4wm0bSAmVw2/view?usp=sharing)).
+A demo video showcasing the real-time localization capabilities of the BlueAnchor can be viewed [here](https://drive.google.com/file/d/1txKP4vfVh1DrkAVq6ZiLB4wm0bSAmVw2/view?usp=sharing).
 
 ## Acknowledgments
 
