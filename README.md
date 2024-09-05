@@ -1,4 +1,4 @@
-# Autonomous Docking for BlueROV Heavy
+# BlueAnchor: Autonomous Docking for BlueROV Heavy
 
 ## Project Overview
 
@@ -27,12 +27,12 @@ The final poster summarizing the project and its outcomes can be found [here](Bl
 
 ## Acknowledgments
 
-Special thanks to the Applied Physics Laboratory at the University of Washington for the opportunity to work on this project. 
+Special thanks to the Applied Physics Laboratory at the University of Washington and Schmidt Marine Technology Partners for the opportunity to work on this project. 
 
 ## Contact
 
 For any questions or further information, please contact:
 
-- **Your Name**: dal337@cornell.edu
+- **Email**: dal337@cornell.edu
 
 
